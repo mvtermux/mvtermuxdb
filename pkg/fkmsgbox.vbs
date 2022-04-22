@@ -1,0 +1,1 @@
+x=msgbox("Something went wrong. Please refresh your computer else can get slower..", 0, "Window Not Responding")
